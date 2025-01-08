@@ -1,4 +1,15 @@
 # CODTECH-TASK4
+**Name:** PARAM THARUN KUMAR<br>
+**company:** CODTECH IT SOLUTIONS<br>
+**ID:** CT08END<br>
+**Domain:** Full stack Web Development<br>
+**Duration:** Dec 17th 2024 to Jan 17th 2025<br>
+## Overview of the project
+## PROJECT: CHROME EXTENSION FOR TIME TRACKING AND PRODUCTIVITY ANALYTICS
+## Objective: 
+ The objective of the project is to develop a chrome extension that tracks the time spent on different websites and 
+ provides productivity analytics. The extension will have a backend to store user data and a dashboard for analytics. 
+ the tool can classify websites as productive or unproductive and provide weekly productivity repor
 # Web Activity Time Tracker <a href="https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm" rel="nofollow"><img src="https://user-images.githubusercontent.com/768070/51865757-87d45300-2347-11e9-84fd-bafff5b036b2.png" alt="Add to Chrome" style="max-width:100%;"></a>
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/d/hhfnghjdeddcfegfekjeihfmbjenlomm.svg?&label=Chrome%20users&ogo=google-chrome&logoColor=white)](https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm)
